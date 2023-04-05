@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    color: rgb(150, 150, 150);
+}
+
+h2, .encabezado {
+    font-size: larger;
+    color: black;
+    font-weight: bold;
+    
+}
+
+.elemento-1 {
+    color: red;
+    font-size: 2rem;
+}
