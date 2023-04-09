@@ -1,0 +1,17 @@
+h1 {
+    font-family: Helvetica;
+}
+
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+img {
+    width: 300px;
+}
+
+img:hover {
+    opacity: 0.75;
+}
